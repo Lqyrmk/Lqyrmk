@@ -3,7 +3,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lqyrmk&show_icons=true&theme=chartreuse-dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lqyrmk&theme=chartreuse-dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lqyrmk&theme=tokyonight&layout=compact)
 
 <!--
 **Lqyrmk/Lqyrmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
