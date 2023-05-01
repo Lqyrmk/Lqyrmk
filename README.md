@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-😀😃😄😁😆😅🤣🙂🙃😊😇🥰😍🤩😘😗😚😙😋🤪😝🤑🤗🤭🤫🤔🤤🤮😰😥😢😭😱😖😣😞😓😩😫🥱😤😡
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lqyrmk&show_icons=true&theme=dark&count_private=true)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Lqyrmk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lqyrmk&theme=dark&layout=compact)
 
@@ -19,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- My favorite emoji：😆😅🤣🙂🙃😊😇🥰😍🤩😋🤪😝🤑🤗🤭🤫🤔🤤🤮😰😭😱😓😩😫😤😡
 -->
