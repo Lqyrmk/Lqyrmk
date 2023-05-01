@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="">Hi 👋, I'm Lqyrmk</h1>
 <h3 align="">
-  A <del>passionate</del> developer
+	- 🌱 <del>I'm passionate developer.</del> I’m currently learning Java.
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
