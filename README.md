@@ -11,7 +11,7 @@
 
 - ⚡ **Languages** and **Tools**:
 
-	<p align="left" height="10px">
+	<p align="center" height="10px">
 	    <a href="https://www.java.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 	    </a>
@@ -71,15 +71,15 @@
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqyrmk&repo=shipping_transportation&theme=prussian) -->
 
 <!-- html -->
-<div align="">
+<div align="center">
 	<img width="500px" src="https://github-readme-stats.vercel.app/api?username=Lqyrmk&show_icons=true&theme=chartreuse-dark&count_private=true" />
 </div>
 
-<div align="">
+<div align="center">
 	<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lqyrmk&theme=chartreuse-dark" />
 </div>
 
-<div align="">
+<div align="center">
 	<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lqyrmk&theme=chartreuse-dark&layout=compact" />
 </div>
 
