@@ -74,17 +74,12 @@
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lqyrmk&repo=shipping_transportation&theme=prussian) -->
 
 <!-- html -->
-<div align="center">
-	<img width="500px" src="https://github-readme-stats.vercel.app/api?username=Lqyrmk&show_icons=true&theme=chartreuse-dark&count_private=true" />
+<div align="center" style="display: flex;">
+	<img height=200 src="https://github-readme-stats.vercel.app/api?username=Lqyrmk&show_icons=true&title_color=DD6387&text_color=6899EA&icon_color=B4BEFE&bg_color=35,F38BA8,FAB387,F9E2AF,A6E3A1,74C7EC,B4BEFE&count_private=true&hide_border=true" />
+	<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lqyrmk&title_color=C678DD&bg_color=35,B4BEFE,74C7EC,A6E3A1,F9E2AF,FAB387,F38BA8&layout=compact&hide_border=true" />
 </div>
 
-<div align="center">
-	<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lqyrmk&theme=chartreuse-dark" />
-</div>
-
-<div align="center">
-	<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lqyrmk&theme=chartreuse-dark&layout=compact" />
-</div>
+<!-- !<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lqyrmk&theme=ambient_gradient" /> -->
 
 <!--
 **Lqyrmk/Lqyrmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -99,5 +94,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- My favorite emoji：😆😅🤣🙂🙃😊😇🥰😍🤩😋🤪😝🤑🤗🤭🤫🤔🤤🤮😰😭😱😓😩😫😤😡
 -->
