@@ -3,7 +3,7 @@
 
 - 🎓 I'm a ~~passionate developer /~~ graduate student in **Software Engineering** at **BJTU**.
 
-- 🔬 My research focuses on **Self-supervised learning, Generative Models and Anomaly Detection**.
+- 🔬 My research focuses on **Self-supervised learning, Generative Models and Graph Anomaly Detection**.
 
 - 🌱 Currently exploring: **LLM and Recommendation System** (Personal Interests).
 
