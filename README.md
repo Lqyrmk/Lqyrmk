@@ -7,6 +7,8 @@
 
 - 🌱 I’m interested in LLM and Recommendation System.
 
+- 🔭 I’m currently working on [ai-tear-code](https://github.com/Lqyrmk/ai-code-tear) (interesting, hope this helps you 😉⭐) and some [research projects](https://github.com/Lqyrmk/rqcross_gladood) (not interesting 🤫).
+
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3) -->
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3)](https://visitorbadge.io/status?path=Lqyrmk)
