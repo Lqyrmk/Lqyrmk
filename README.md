@@ -5,9 +5,9 @@
 
 - 🔬 My research focuses on Self-supervised learning.
 
-- 🌱 I’m interested in LLM and Recommendation System.
+- 🌱 I’m interested in **Large Language Model** and **Recommendation System**.
 
-- 🔭 I’m currently working on [ai-tear-code](https://github.com/Lqyrmk/ai-code-tear) (interesting, hope this helps you 😉⭐) and some [research projects](https://github.com/Lqyrmk/rqcross_gladood) (not interesting 🤫).
+- 🔭 I’m currently working on **[ai-tear-code](https://github.com/Lqyrmk/ai-code-tear)** (**interesting**, hope this helps you 😉⭐) and some **[research projects](https://github.com/Lqyrmk/rqcross_gladood)** (**not interesting** 🤫).
 
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3) -->
 
