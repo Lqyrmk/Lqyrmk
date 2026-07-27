@@ -33,10 +33,10 @@
 <!-- !<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lqyrmk&theme=ambient_gradient" /> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lqyrmk&theme=solarized-light" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=Lqyrmk&theme=solarized-light" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lqyrmk&layout=compact&langs_count=8&card_width=320&theme=solarized-light" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Lqyrmk&layout=compact&langs_count=8&card_width=320&theme=solarized-light" />
 </a>
 
 
