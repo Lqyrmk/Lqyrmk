@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **[ai-tear-code](https://github.com/Lqyrmk/ai-code-tear)** (**interesting**, hope this helps you 😉⭐).
 
+- 🚀 My digital garden: **[fugue](https://lqyrmk.github.io)**. Ideas meet code! ✍️✍️✍️
+
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3) -->
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3)](https://visitorbadge.io/status?path=Lqyrmk)
