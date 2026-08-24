@@ -5,11 +5,11 @@
 
 - 🔬 My research focuses on Self-supervised learning.
 
-- 🌱 I’m interested in **LLM4Rec**.
+- 🌱 I’m interested in **LLM** and **LLM4Rec**.
 
 - 🔭 I’m currently working on **[ai-tear-code](https://github.com/Lqyrmk/ai-code-tear)** (**interesting**, hope this helps you 😉⭐).
 
-- 🚀 My digital garden: **[fugue](https://lqyrmk.github.io)**. Ideas meet code! ✍️✍️✍️
+- 🚀 My digital garden: **[Bit & Piece](https://lqyrmk.github.io)**. Ideas meet code! ✍️✍️✍️
 
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3) -->
 
