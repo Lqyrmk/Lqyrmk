@@ -25,11 +25,26 @@
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Lqyrmk&layout=compact&langs_count=8&card_width=320&theme=solarized-light" />
 </a> -->
 
-<!-- self-hosting: Github Action -->
+<!-- self-hosting: Github Action | Markdown -->
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-ai-code-tear.svg)
 
+<!-- self-hosting: Github Action | html -->
+<p align="center">
+  <a href="https://github.com/Lqyrmk">
+    <img height="200" src="./profile/stats.svg" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Lqyrmk">
+    <img height="200" src="./profile/top-langs.svg" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lqyrmk/ai-code-tear">
+    <img height="200" src="./profile/pin-ai-code-tear.svg" alt="Pinned Repository" />
+  </a>
+</p>
 
 <!--
 **Lqyrmk/Lqyrmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
