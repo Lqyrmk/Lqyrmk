@@ -26,9 +26,9 @@
 </a> -->
 
 <!-- self-hosting: Github Action | Markdown -->
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-ai-code-tear.svg)
+<!-- ![Stats](./profile/stats.svg) -->
+<!-- ![Top Languages](./profile/top-langs.svg) -->
+<!-- ![Pinned](./profile/pin-ai-code-tear.svg) -->
 
 <!-- self-hosting: Github Action | html -->
 <p align="center">
