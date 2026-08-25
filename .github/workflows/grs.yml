@@ -38,7 +38,7 @@ jobs:
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=ai-code-tear
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          path: profile/pin-ai-code-tear.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
