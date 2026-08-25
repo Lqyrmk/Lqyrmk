@@ -33,10 +33,10 @@
 <!-- self-hosting: Github Action | html -->
 <p align="center">
   <a href="https://github.com/Lqyrmk">
-    <img height="200" src="./profile/stats.svg" alt="GitHub Stats" />
+    <img height="200" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Lqyrmk">
-    <img height="200" src="./profile/top-langs.svg" alt="Top Languages" />
+    <img height="200" align="center" src="./profile/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
 
