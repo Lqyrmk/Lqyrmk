@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=ai-code-tear
+          options: username=${{ github.repository_owner }}&repo=ai-code-tear&card_width=320&theme=one_dark_pro
           path: profile/pin-ai-code-tear.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
