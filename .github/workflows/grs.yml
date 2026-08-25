@@ -1,6 +1,8 @@
 name: Update README cards
 
 on:
+  push:
+    branches: [ main, master ]   # 根据你的默认分支调整
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
