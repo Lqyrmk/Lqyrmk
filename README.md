@@ -1,15 +1,12 @@
-<!-- ### Hi there 👋 -->
-# Hi there 👋✨
+# 👋✨ Hey, I'm Code Humor
 
-- 🎓 I am currently a graduate student at Beijing Jiaotong University..
+- 🎓 Grad student @ Beijing Jiaotong University, passionate about **code**. 🔥
 
-- 🔬 My research focuses on Self-supervised learning.
+- 🔬 Researching **Self-Supervised Learning** | Currently exploring **LLMs** and **LLM4Rec** (Recommender Systems with LLMs).
 
-- 🌱 I’m interested in **LLM** and **LLM4Rec**.
+- 🔭 Building **[ai-code-tear](https://github.com/Lqyrmk/ai-code-tear)** — hand-coded PyTorch implementations of deep learning models or components. (Perfect for interview warm-ups! 😉⭐)
 
-- 🔭 I’m currently working on **[ai-tear-code](https://github.com/Lqyrmk/ai-code-tear)** (**interesting**, hope this helps you 😉⭐).
-
-- 🚀 My digital garden: **[Bit & Piece](https://lqyrmk.github.io)**. Ideas meet code! ✍️✍️✍️
+- 🌱 My digital garden: **[Bit & Piece](https://lqyrmk.github.io)**  — where ideas meet code. ✍️🚀
 
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3) -->
 
