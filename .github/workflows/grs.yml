@@ -33,12 +33,20 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
+      - name: Generate pin card `ai-code-tear`
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=ai-code-tear&card_width=320&theme=one_dark_pro
           path: profile/pin-ai-code-tear.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card `turbo-skills`
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=turbo-skills&card_width=320&theme=one_dark_pro
+          path: profile/pin-turbo-skills.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

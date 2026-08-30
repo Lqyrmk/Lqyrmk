@@ -24,6 +24,9 @@
 
 <p align="center">
   <a href="https://github.com/Lqyrmk/ai-code-tear">
-    <img height="200" src="./profile/pin-ai-code-tear.svg" alt="Pinned Repository" />
+    <img height="200" align="center" src="./profile/pin-ai-code-tear.svg" alt="Pinned Repository: ai-code-tear" />
+  </a>
+  <a href="https://github.com/Lqyrmk/turbo-skills">
+    <img height="200" align="center" src="./profile/pin-turbo-skills.svg" alt="Pinned Repository: turbo-skills" />
   </a>
 </p>
