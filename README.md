@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/Lqyrmk/turbo-skills">
     <img height="200" src="./profile/pin-turbo-skills.svg" alt="Pinned Repository: turbo-skills" />
   </a>
