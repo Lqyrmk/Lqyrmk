@@ -24,7 +24,10 @@
 
 # Some Repos
 
-<p align="center">
+🧩 [ai-tear-code](https://github.com/Lqyrmk/ai-code-tear)
+⚡️ [turbo](https://github.com/Lqyrmk/turbo-skills)
+
+<!-- <p align="center">
   <a href="https://github.com/Lqyrmk/ai-code-tear">
     <img height="200" src="./profile/pin-ai-code-tear.svg" alt="Pinned Repository: ai-code-tear" />
   </a>
@@ -34,4 +37,4 @@
   <a href="https://github.com/Lqyrmk/turbo-skills">
     <img height="200" src="./profile/pin-turbo-skills.svg" alt="Pinned Repository: turbo-skills" />
   </a>
-</p>
+</p> -->
