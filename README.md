@@ -24,8 +24,9 @@
 
 # Some Repos
 
-🧩 [ai-tear-code](https://github.com/Lqyrmk/ai-code-tear) - hand-coded PyTorch implementations of DL models or components
-⚡️ [turbo-skills](https://github.com/Lqyrmk/turbo-skills) - practical performance tuning plugins
+- 🧩 **[ai-tear-code](https://github.com/Lqyrmk/ai-code-tear)** - hand-coded PyTorch implementations of DL models or components
+
+- ⚡️ **[turbo-skills](https://github.com/Lqyrmk/turbo-skills)** - a practical performance tuning plugin
 
 <!-- <p align="center">
   <a href="https://github.com/Lqyrmk/ai-code-tear">
