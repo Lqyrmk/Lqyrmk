@@ -2,7 +2,7 @@
 
 - 🎓 Grad student @ Beijing Jiaotong University, passionate about **code**. 🔥
 
-- 🔬 Researching **Self-Supervised Learning** | Currently exploring **LLMs** and **LLM4Rec** (Recommender Systems with LLMs).
+- 🔬 Researching **Self-Supervised Learning** | Currently exploring **LLM** and **Agent**.
 
 - 🔭 Building **[ai-code-tear](https://github.com/Lqyrmk/ai-code-tear)** — hand-coded PyTorch implementations of deep learning models or components. (Perfect for interview warm-ups! 😉⭐)
 
