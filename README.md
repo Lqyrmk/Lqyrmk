@@ -8,8 +8,6 @@
 
 - 🌱 My digital garden: **[Bit & Piece](https://lqyrmk.github.io)**  — where ideas meet code. ✍️🚀
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3)](https://visitorbadge.io/status?path=Lqyrmk)
-
 # GitHub data
 
 <!-- self-hosting: Github Action | html -->
@@ -39,3 +37,7 @@
     <img height="200" src="./profile/pin-turbo-skills.svg" alt="Pinned Repository: turbo-skills" />
   </a>
 </p> -->
+
+---
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3)](https://visitorbadge.io/status?path=Lqyrmk)
