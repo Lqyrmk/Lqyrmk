@@ -1,8 +1,8 @@
 
       <svg
         width="320"
-        height="120"
-        viewBox="0 0 320 120"
+        height="140"
+        viewBox="0 0 320 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -122,10 +122,10 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">&#19968;&#20010;&#23567;&#25554;&#20214;：&#20195;&#30721;&#24615;&#33021;&#20248;&#21270;+&#21487;&#35835;&#24615;&#27880;&#37322;</tspan>
+      <tspan dy="1.2em" x="25">&#19968;&#20010; Claude Code &#25554;&#20214;：&#20195;&#30721;&#24615;&#33021;&#20248;&#21270;+&#21487;&#35835;</tspan><tspan dy="1.2em" x="25">&#24615;&#27880;&#37322;</tspan>
     </text>
 
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#89e051" />
@@ -145,7 +145,7 @@
     </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">1</text></g></g>
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 68)">
+  <svg x="0" y="0"><g transform="translate(-3, 88)">
       
     </g></svg>
     
