@@ -1,4 +1,4 @@
-### 👋✨ Hey, I'm Code Humor
+## 👋✨ Hey, I'm Code Humor
 
 - 🎓 Master's student @ Beijing Jiaotong University | Software Engineering.
 
@@ -8,19 +8,7 @@
 
 - 🌱 My digital garden: **[Bit & Piece](https://lqyrmk.github.io)**  — where ideas meet code. ✍️🚀
 
-### GitHub data
-
-<!-- self-hosting: Github Action | html -->
-<p align="center">
-  <a href="https://github.com/Lqyrmk">
-    <img height="200" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Lqyrmk">
-    <img height="200" align="center" src="./profile/top-langs.svg" alt="Top Languages" />
-  </a>
-</p>
-
-### Some Repos
+## Some Repos
 
 - 🧩 **[ai-tear-code](https://github.com/Lqyrmk/ai-code-tear)** - hand-coded PyTorch implementations of DL models or components
 
@@ -38,12 +26,24 @@
   </a>
 </p> -->
 
----
+## GitHub data
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lqyrmk/Lqyrmk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lqyrmk/Lqyrmk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lqyrmk/Lqyrmk/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- self-hosting: Github Action | html -->
+<p align="center">
+  <a href="https://github.com/Lqyrmk">
+    <img height="200" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Lqyrmk">
+    <img height="200" align="center" src="./profile/top-langs.svg" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lqyrmk/Lqyrmk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lqyrmk/Lqyrmk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lqyrmk/Lqyrmk/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Lqyrmk&labelColor=%23697689&countColor=%23fdf6e3)](https://visitorbadge.io/status?path=Lqyrmk)
