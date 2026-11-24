@@ -26,6 +26,13 @@
   </a>
 </p> -->
 
+## Open Source Contributions
+
+| Project              | PRs                           |
+| :--------------------: | :-----------------------------: |
+| **[OneRec-Think](https://github.com/wangshy31/OneRec-Think)** (200+ Star⭐) | [#16](https://github.com/wangshy31/OneRec-Think/pull/16) Moved prompt-label construction out of the custom CustomDataCollator implementations and into tokenize_function, so it runs once during dataset preprocessing instead of on every training step. This makes end-to-end training about 10x faster per epoch. |
+
+
 ## GitHub data
 
 <!-- self-hosting: Github Action | html -->
