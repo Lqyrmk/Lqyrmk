@@ -1,6 +1,6 @@
-# 👋✨ Hey, I'm Code Humor
+### 👋✨ Hey, I'm Code Humor
 
-- 🎓 Grad student @ Beijing Jiaotong University, passionate about **code**. 🔥
+- 🎓 Master's student @ Beijing Jiaotong University | Software Engineering.
 
 - 🔬 Researching **Self-Supervised Learning** | Currently exploring **LLM** and **Agent**.
 
@@ -8,7 +8,7 @@
 
 - 🌱 My digital garden: **[Bit & Piece](https://lqyrmk.github.io)**  — where ideas meet code. ✍️🚀
 
-# GitHub data
+### GitHub data
 
 <!-- self-hosting: Github Action | html -->
 <p align="center">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-# Some Repos
+### Some Repos
 
 - 🧩 **[ai-tear-code](https://github.com/Lqyrmk/ai-code-tear)** - hand-coded PyTorch implementations of DL models or components
 
